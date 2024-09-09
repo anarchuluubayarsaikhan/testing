@@ -1,5 +1,5 @@
 export function Testing1 () {
     return (
-        <div>Testing1</div>
+        <div>Conflict making for purpose</div>
     )
 }
